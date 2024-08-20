@@ -100,6 +100,8 @@
 
 ### Préparation
 
+* Déploiement fiable et assemblage harmonieux de sources sonores spatialisées en contexte de diffusion multimédia
+
 ### Contenus
 
 * Emploi des protocoles de communication temps réel pour influencer le son (OSC, CV, MIDI)
@@ -137,7 +139,7 @@
 
 ### Activités
 
-* Évaluation fommative : [EF-2 Sons et lumières](/evaluations/?id=ef-2-maquette-sons-et-lumi%c3%a8res)
+* Évaluation formative : [EF-2 Sons et lumières](/evaluations/?id=ef-2-maquette-sons-et-lumi%c3%a8res)
 
 ## 10 - 11/04
 
@@ -152,7 +154,7 @@
 
 ### Activités
 
-* Amménagement du studio pour la journée carrière 
+* Aménagement du studio pour la journée carrière 
 
 ## 11 - 11/13
 
@@ -192,7 +194,7 @@
 
 ### Préparation
 
-* Optimisation des médias pour la projection vidéo architecturale
+* Intégration de médias pour la projection vidéo architecturale
 
 ### Contenus
 * Configuration appropriée, distribution fluide et optimisation adéquate de la diffusion vidéo sur surfaces architecturales

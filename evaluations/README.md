@@ -2,9 +2,9 @@
 
 ## Formative
 
-Les évaluations **formatives** jouent un rôle crucial dans le processus d'apprentissage en offrant à l'étudiant une occasion continue de perfectionner ses connaissances, de comprendre ses points forts et ses domaines à améliorer. Ces évaluations visent à soutenir activement le développement des compétences en offrant des conseils personnalisés pour renforcer la compréhension des concepts enseignés et améliorer la capacité de les appliquer de manière pratique
+Les évaluations **formatives** jouent un rôle crucial dans le processus d'apprentissage en offrant à l'étudiant une occasion continue de perfectionner ses connaissances, de comprendre ses points forts et ses domaines à améliorer. Ces évaluations visent à soutenir activement le développement des compétences en offrant des conseils personnalisés pour renforcer la compréhension des concepts enseignés et améliorer la capacité de les appliquer de manière pratique.
 
-### EF-1 Maquette Lumières Scéniques
+### EF-1 Maquette Lumières scénique
 #### Date : 09/16
 #### Séance : 4
 
@@ -57,7 +57,7 @@ Les étudiants réaliseront une maquette fonctionnelle de leur installation de s
 * Mettre en place les protocoles de communication temps réel (OSC, CV, MIDI) pour contrôler le son.
 
 ##### Manipulation du son et de la lumière
-* Ajuster les paramètres sonores et lumineux pour créer une scène multimédia simple, intégrant son et lumière.
+* Ajuster les paramètres sonores et lumineux pour créer une scène multimédia simple, intégrante son et lumière.
 
 ##### Création d'une composition sonore et lumineuse
 * Réaliser une composition où le signal de contrôle est utilisé pour orchestrer les éléments sonores et lumineux.
@@ -72,7 +72,7 @@ Les étudiants réaliseront une maquette fonctionnelle de leur installation de s
 
 Une maquette fonctionnelle qui servira de base pour l'évaluation sommative, avec une attention particulière à l'intégration harmonieuse du son et de la lumière, à la qualité du produit final, et à la documentation complète du processus.
 
-### EF-3 Maquette Projections Architecturales
+### EF-3 Maquette Projections architecturale
 #### Date : 12/02
 #### Séance : 14
 
@@ -111,10 +111,10 @@ Une maquette fonctionnelle qui servira de base pour l'évaluation sommative, ave
 
 Les évaluations **sommatives** sont utilisées pour évaluer les acquis et les connaissances de l'étudiant à un moment donné. Elles servent à mesurer la réussite et la maîtrise des objectifs d'apprentissage à la fin d'une période déterminée. Les résultats des évaluations sommatives fournissent une évaluation globale du niveau de compétence atteint par l'étudiant.
 
-### ES-1 : Lumières scénique
+### ES-1 : Lumières scéniques
 #### Date : 09/23
 #### Séance : 5
-#### Ponderation : 30%  
+#### Pondération : 30%  
 
 #### Description
 
@@ -155,7 +155,7 @@ Les étudiants branchent une installation de lumières scéniques, utilisent des
 ### ES-2 Sons et lumières
 #### Date : 11/13
 #### Séance : 11
-#### Ponderation : 30%
+#### Pondération : 30%
 
 #### Description 
 
@@ -191,7 +191,7 @@ Les étudiants branchent une installation de spatialisation sonore, positionnent
 ### ES-3 Projections architecturales
 #### Date : 12/09
 #### Séance : 15
-#### Ponderation : 40%
+#### Pondération : 40%
 
 #### Description 
 
