@@ -16,7 +16,7 @@ Ce cours préparera l’étudiante ou l’étudiant à concevoir toutes les éta
 
 * Analyser la conception du projet 
 
-### D’apprentissage 
+### Apprentissage 
 
 * Analyser le projet  
 * Déterminer les ressources nécessaires  
@@ -24,22 +24,21 @@ Ce cours préparera l’étudiante ou l’étudiant à concevoir toutes les éta
 
 ## Place du cours dans le programme 
 
-### Cours Préalables
+### Cours préalables 
 
 * 582 423 MO Conception sonore interactive     
 * 582 543 MO Traitement vidéo
 
-### Préalable au cours
+### Préalable aux cours
 
 * 582 66B MO Expérience multimédia interactive  
 * 582 66G MO Production Web en entreprise 
 
 ## Méthodologie
 
-* Exposés magistraux
 * Apprentissage et utilisation de logiciels sous forme de démonstrations, d'exercices, de travaux pratiques 
-* Projets multimédias
 * Exposés interactifs
+* Projets multimédias
 * Activités coopératives
 
 ## Contexte particulier d’apprentissage

@@ -2,12 +2,13 @@
 
 ## 1 - 08/26
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
 * Plan de cours  
 * Studio et parc d’équipement
+
 
 ### Activités
 
@@ -15,7 +16,7 @@
 
 ## 2 - 09/04
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
@@ -28,7 +29,7 @@
 
 ## 3 - 09/09
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
@@ -36,87 +37,79 @@
 
 ### Activités
 
-* Préparation TP1 
+* Préparation TP1 Lumières scénique
 
 ## 4 - 09/16
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
-* Formatif : Présentation TP1 : Lumières adressables 
+* Formatif : Présentation TP1 : Lumières scénique
 
 ### Activités
 
-* Itération TP1 
+* Démonstration maquette TP1 
 
 ## 5 - 09/23
 
-### À Préparer
+### Préparation
 
 * Présentation TP1
 
 ### Contenus
 
-* Sommatif : Présentation TP1 : Lumières adressables 
+* ES-1 : Lumières scénique
 
 ### Activités
+
+* Branchement d’une installation de lumières scéniques
+
 
 ## 6 - 09/30
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
-Mapping vidéo et traitement temps réel mono projecteur 
-Installation et branchements de projecteurs 
 
 ### Activités
 
-Composition visuelle monocanal 
 
 
 ## 7 - 10/07
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
-* Mapping vidéo et traitement temps réel multi projecteurs 
-* Protocoles de transports de signaux vidéo réseau avancé 
 
 ### Activités
 
-* Composition visuelle multicanal 
 
 ## 8 - 10/21
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
-* Conception vidéo architecturale  
 
 ### Activités
-
-Intégration médias visuels 
 
 ## 9 - 10/28
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
-* Conception vidéo architecturale (suite) 
 
 
 ### Activités
 
-* Intégration médias visuels (suite) 
 
 ## 10 - 11/04
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
@@ -126,24 +119,21 @@ Intégration médias visuels
 
 ### Activités
 
-* Itération TP2 
 
 ## 11 - 11/13
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
-* Formatif : TP2 : Projection architecturale 
 
 
 ### Activités
 
-Itération TP2 
 
 ## 12 - 11/18
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
@@ -156,7 +146,7 @@ Spatialisation sonore et matriçage audio
 
 ## 13 - 11/25
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
@@ -168,20 +158,20 @@ Composition sonore multicanale
 
 ## 14 - 12/02
 
-### À Préparer
+### Préparation
 
 ### Contenus
 
-Formatif : TP3: Installation multimédia audiovisuelle 
+Formatif : Maquette EF3 : Installation multimédia audiovisuelle 
 
 ### Activités
 
 
 ## 15 - 12/09
 
-### À Préparer
+### Préparation
 
-### 
+### Contenus
 
 Sommatif présentation TP3: Installation multimédia audiovisuelle 
 

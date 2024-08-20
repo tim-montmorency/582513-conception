@@ -1,6 +1,6 @@
 * [Description](/di/)
 * [Cours](/cours/)
-* [Évaluation](/evaluations/)
+* [Évaluations](/evaluations/)
 * [Médiagraphie ](/mediagraphie/)
 * [PIEA](/piea/)
 
