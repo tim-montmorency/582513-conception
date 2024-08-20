@@ -62,7 +62,7 @@
 
 ### Activités
 
-* Évaluation formative : [EF-1 : Maquette lumières scénique](/evaluations/?id=ef-1-maquette-lumi%c3%a8res-sc%c3%a9nique)
+* Évaluation formative : [EF-1 : Maquette lumières scénique](/evaluations/?id=ef-1-maquette-lumi%c3%a8res-sc%c3%a9niques)
 
 ## 5 - 09/23
 
@@ -137,7 +137,7 @@
 
 ### Activités
 
-* Évaluation fommative : [EF-2 Sons et lumières](/evaluations/?id=ef-2-sons-et-lumières)
+* Évaluation fommative : [EF-2 Sons et lumières](/evaluations/?id=ef-2-maquette-sons-et-lumi%c3%a8res)
 
 ## 10 - 11/04
 
@@ -217,7 +217,7 @@
 
 ### Activités
 
-* Évaluation formative : [EF-3 Projections architecturales](/evaluations/?id=ef-3-projections-architecturales)
+* Évaluation formative : [EF-3 Projections architecturales](/evaluations/?id=ef-3-maquette-projections-architecturales)
 
 ## 15 - 12/09
 

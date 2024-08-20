@@ -14,27 +14,27 @@ Les étudiants réaliseront une maquette fonctionnelle de leur installation de l
 
 #### Objectifs 
 
-- **Branchement sécurisé de l'installation :**
-  - Configurer une installation de lumières scéniques en branchant les éléments nécessaires en toute sécurité.
-  
-- **Utilisation des protocoles de communication :**
-  - Mettre en place les protocoles de communication pour contrôler les lumières de l'installation.
+##### Branchement sécurisé de l'installation
+* Configurer une installation de lumières scéniques en branchant les éléments nécessaires en toute sécurité.
 
-- **Manipulation des intensités lumineuses :**
-  - Ajuster les intensités lumineuses et créer des scènes lumineuses simples.
+##### Utilisation des protocoles de communication
+* Mettre en place les protocoles de communication pour contrôler les lumières de l'installation.
 
-- **Création d'une composition lumineuse :**
-  - Réaliser une composition lumineuse en intégrant les médias nécessaires, avec le signal de contrôle comme élément central.
+##### Manipulation des intensités lumineuses
+* Ajuster les intensités lumineuses et créer des scènes lumineuses simples.
 
-- **Optimisation et contrôle de la qualité :**
-  - Optimiser les médias utilisés et vérifier la qualité du rendu final.
+##### Création d'une composition lumineuse
+* Réaliser une composition lumineuse en intégrant les médias nécessaires, avec le signal de contrôle comme élément central.
 
-- **Documentation :**
-  - Documenter le processus, incluant les schémas, les réglages, et les choix artistiques.
+##### Optimisation et contrôle de la qualité
+* Optimiser les médias utilisés et vérifier la qualité du rendu final.
+
+##### Documentation
+* Documenter le processus, incluant les schémas, les réglages, et les choix artistiques.
 
 #### Résultat attendu
 
-Une maquette fonctionnelle qui servira de base pour l'évaluation, avec une attention particulière à la sécurité, à la pertinence de la composition, et à la qualité du produit final.
+Une maquette fonctionnelle qui servira de base pour l'évaluation sommative, avec une attention particulière à la sécurité, à la pertinence de la composition, et à la qualité du produit final.
 
 
 ### EF-2 Maquette Sons et Lumières
@@ -43,30 +43,30 @@ Une maquette fonctionnelle qui servira de base pour l'évaluation, avec une atte
 
 #### Description
 
-Les étudiants réaliseront une maquette fonctionnelle de leur installation de spatialisation sonore et lumière en vue de préparer l'évaluation finale.
+Les étudiants réaliseront une maquette fonctionnelle de leur installation de spatialisation sonore et lumière en vue de préparer l'évaluation sommative.
 
 #### Objectifs 
 
-- **Branchement de l'installation de spatialisation sonore :**
-  - Configurer une installation de spatialisation sonore en branchant les haut-parleurs et autres éléments nécessaires.
+##### Branchement de l'installation de spatialisation sonore
+* Configurer une installation de spatialisation sonore en branchant les haut-parleurs et autres éléments nécessaires.
 
-- **Positionnement des haut-parleurs :**
-  - Positionner les haut-parleurs de manière optimale pour une spatialisation sonore efficace.
+##### Positionnement des haut-parleurs
+* Positionner les haut-parleurs de manière optimale pour une spatialisation sonore efficace.
 
-- **Utilisation des protocoles de communication :**
-  - Mettre en place les protocoles de communication temps réel (OSC, CV, MIDI) pour contrôler le son.
+##### Utilisation des protocoles de communication
+* Mettre en place les protocoles de communication temps réel (OSC, CV, MIDI) pour contrôler le son.
 
-- **Manipulation du son et de la lumière :**
-  - Ajuster les paramètres sonores et lumineux pour créer une scène multimédia simple, intégrant son et lumière.
+##### Manipulation du son et de la lumière
+* Ajuster les paramètres sonores et lumineux pour créer une scène multimédia simple, intégrant son et lumière.
 
-- **Création d'une composition sonore et lumineuse :**
-  - Réaliser une composition où le signal de contrôle est utilisé pour orchestrer les éléments sonores et lumineux.
+##### Création d'une composition sonore et lumineuse
+* Réaliser une composition où le signal de contrôle est utilisé pour orchestrer les éléments sonores et lumineux.
 
-- **Optimisation et contrôle de la qualité :**
-  - Optimiser l'intégration des médias et vérifier la qualité du rendu final, tant pour le son que pour la lumière.
+##### Optimisation et contrôle de la qualité
+* Optimiser l'intégration des médias et vérifier la qualité du rendu final, tant pour le son que pour la lumière.
 
-- **Documentation :**
-  - Documenter le processus, incluant les schémas de branchement, les configurations des protocoles, et les choix artistiques.
+##### Documentation
+* Documenter le processus, incluant les schémas de branchement, les configurations des protocoles, et les choix artistiques.
 
 #### Résultat attendu
 
@@ -82,26 +82,26 @@ Les étudiants réaliseront une maquette fonctionnelle de leur installation de p
 
 #### Objectifs 
 
-- **Branchement de l'installation de projection architecturale :**
-  - Configurer une installation de projection architecturale en branchant les éléments nécessaires pour diffuser la vidéo sur des surfaces architecturales.
+##### Branchement de l'installation de projection architecturale
+* Configurer une installation de projection architecturale en branchant les éléments nécessaires pour diffuser la vidéo sur des surfaces architecturales.
 
-- **Configuration de la diffusion vidéo :**
-  - Configurer et ajuster la diffusion vidéo sur les surfaces architecturales pour assurer une distribution fluide et une optimisation adéquate.
+##### Configuration de la diffusion vidéo
+* Configurer et ajuster la diffusion vidéo sur les surfaces architecturales pour assurer une distribution fluide et une optimisation adéquate.
 
-- **Utilisation des protocoles de communication :**
-  - Mettre en place les protocoles pour transporter la vidéo en temps réel entre les dispositifs de projection.
+##### Utilisation des protocoles de communication
+* Mettre en place les protocoles pour transporter la vidéo en temps réel entre les dispositifs de projection.
 
-- **Manipulation des logiciels spécialisés :**
-  - Utiliser des logiciels d'intégration multimédia spécialisés pour configurer et gérer la projection architecturale.
+##### Manipulation des logiciels spécialisés
+* Utiliser des logiciels d'intégration multimédia spécialisés pour configurer et gérer la projection architecturale.
 
-- **Création d'une composition vidéo :**
-  - Intégrer les médias nécessaires pour réaliser une composition vidéo adaptée à la surface architecturale choisie.
+##### Création d'une composition vidéo
+* Intégrer les médias nécessaires pour réaliser une composition vidéo adaptée à la surface architecturale choisie.
 
-- **Optimisation et contrôle de la qualité :**
-  - Optimiser les médias pour un rendu vidéo de haute qualité et vérifier l'efficacité de la projection.
+##### Optimisation et contrôle de la qualité
+* Optimiser les médias pour un rendu vidéo de haute qualité et vérifier l'efficacité de la projection.
 
-- **Archivage et documentation :**
-  - Documenter le processus, incluant les configurations techniques et les choix artistiques, et archiver le produit multimédia final.
+##### Archivage et documentation
+* Documenter le processus, incluant les configurations techniques et les choix artistiques, et archiver le produit multimédia final.
 
 #### Résultat attendu
 
