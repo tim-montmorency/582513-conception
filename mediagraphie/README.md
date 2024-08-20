@@ -10,7 +10,9 @@ Cinzia Campolese. « Cinzia Campolese | Artist | ». Cinzia C. Consulté le 
 
 Daily tous les jours. « Projets ». Consulté le 15 janvier 2020. https://www.dailytouslesjours.com/fr/projets.  
 
-Département technique d’intégration multimédia du Collège Montmorency. « Guide étudiant TIM », 2020. https://cmontmorency365.sharepoint.com/:w:/s/TIM-TTP/EbebEUjsWoxDuyPH2j7hBh0BZML-WgLyM5pMQq5sJZT3xA?e=z6IeVj.  
+Département technique d’intégration multimédia du Collège Montmorency. « Guide étudiant TIM », 2020. 
+https://cmontmorency365.sharepoint.com/:w:/r/sites/TIM-TTP/Documents%20partages/comite_politiques/guides/guide_etudiants.docx?d=w48119bb75aec438cbb23c7da3ee1061d&csf=1&web=1&e=OJznfa .
+
 
 Erin Gee. « Human Voices in Electronic Bodies ». Consulté le 15 janvier 2020. https://eringee.net/.  
 

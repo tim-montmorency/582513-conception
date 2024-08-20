@@ -1,4 +1,4 @@
-# DÉROULEMENT DU COURS  
+# Déroulement du cours  
 
 ## 1 - 08/26
 
@@ -8,62 +8,77 @@
 
 * Plan de cours  
 * Studio et parc d’équipement
-
+* Emploi des protocoles de communication pour lumières scéniques
 
 ### Activités
 
-* Branchements de lumières adressables 
+* Branchement d’une installation de lumières scéniques
 
 ## 2 - 09/04
 
 ### Préparation
 
+* Emploi des protocoles de communication pour lumières scéniques
+
 ### Contenus
 
-* Protocole de communication pour lumières adressables  
-* Artnet, DMX et type de lumières, choix de logiciels 
+* Opération sécuritaire, composition pertinente et intégration judicieuse de lumières scénique sur support
+
+* Intégration des médias pour une composition de lumières scéniques
+
 
 ### Activités
 
-* Composition de séquences lumière 
+* Branchement d’une installation de lumières scéniques
+
 
 ## 3 - 09/09
 
 ### Préparation
 
+* Intégration des médias pour une composition de lumières scéniques
+
 ### Contenus
 
-* Composition séquence lumière en studio 
+* Opération sécuritaire, composition pertinente et intégration judicieuse de lumières scénique sur support
+* Optimiser l'intégration de médias pour la conception de lumière scénique.
 
 ### Activités
 
-* Préparation TP1 Lumières scénique
+* Branchement d’une installation de lumières scéniques
+* Réalisation d’une composition de lumières scéniques
+
 
 ## 4 - 09/16
 
 ### Préparation
 
+* Réalisation d’une composition de lumières scéniques
+
 ### Contenus
 
-* Formatif : Présentation TP1 : Lumières scénique
+* Contrôle de la qualité du produit multimédia
+* Optimisation des médias pour une composition de lumières scéniques
 
 ### Activités
 
-* Démonstration maquette TP1 
+* Évaluation formative : [EF-1 : Maquette lumières scénique](/evaluations/?id=ef-1-maquette-lumi%c3%a8res-sc%c3%a9nique)
 
 ## 5 - 09/23
 
 ### Préparation
 
-* Présentation TP1
+* Optimisation des médias pour une composition de lumières scéniques
 
 ### Contenus
 
-* ES-1 : Lumières scénique
+* Contrôle de la qualité du produit multimédia
+* Documentation du produit multimédia
+
 
 ### Activités
 
-* Branchement d’une installation de lumières scéniques
+* Évaluation sommative : [ES-1 Lumières scénique](/evaluations/?id=es-1-lumi%c3%a8res-sc%c3%a9nique)
 
 
 ## 6 - 09/30
@@ -72,9 +87,13 @@
 
 ### Contenus
 
+* Déploiement fiable et assemblage harmonieux de sources sonores spatialisées en contexte de diffusion multimédia
+
+* Positionnement de haut-parleurs dans une installation spatialisant le son
 
 ### Activités
 
+* Branchement d’une installation spatialisant le son
 
 
 ## 7 - 10/07
@@ -83,103 +102,142 @@
 
 ### Contenus
 
+* Emploi des protocoles de communication temps réel pour influencer le son (OSC, CV, MIDI)
 
 ### Activités
+
+* Branchement d’une installation spatialisant le son
 
 
 ## 8 - 10/21
 
 ### Préparation
 
+* Emploi des protocoles de communication temps réel pour influencer le son (OSC, CV, MIDI)
+
 ### Contenus
 
+* Intégration des médias pour la spatialisation sonore
 
 ### Activités
+
+* Branchement d’une installation spatialisant le son
+
 
 ## 9 - 10/28
 
 ### Préparation
 
+* Intégration des médias pour la spatialisation sonore
+
 ### Contenus
 
-
+* Optimisation des médias pour la spatialisation sonore
+* Contrôle de la qualité du produit multimédia
 
 ### Activités
 
+* Évaluation fommative : [EF-2 Sons et lumières](/evaluations/?id=ef-2-sons-et-lumières)
 
 ## 10 - 11/04
 
 ### Préparation
+
+* Contrôle de la qualité du produit multimédia
 
 ### Contenus
 
 * Journée « carrière » (Collaboration avec Contrôle de la qualité)
 
 
-
 ### Activités
 
+* Amménagement du studio pour la journée carrière 
 
 ## 11 - 11/13
 
 ### Préparation
 
+* Optimisation des médias pour la spatialisation sonore
+* Contrôle de la qualité du produit multimédia
+
 ### Contenus
 
-
+* Présentation du produit multimédia
 
 ### Activités
+
+* Évaluation sommative : [ES-2 Sons et lumières](/evaluations/?id=es-2-sons-et-lumières)
+
 
 
 ## 12 - 11/18
 
 ### Préparation
 
+* Logiciels d'intégration multimédia spécialisés en projection architecturale
+
 ### Contenus
 
-Présentations TP2 : Projection architecturale 
-Spatialisation sonore et matriçage audio   
+* Configuration appropriée, distribution fluide et optimisation adéquate de la diffusion vidéo sur surfaces architecturales
 
 
 ### Activités
+
+* Branchement d’une installation de projection architecturale
+* Intégration de médias pour la projection vidéo architecturale
 
 
 ## 13 - 11/25
 
 ### Préparation
 
-### Contenus
+* Optimisation des médias pour la projection vidéo architecturale
 
-Spatialisation sonore et matriçage audio (suite) 
+### Contenus
+* Configuration appropriée, distribution fluide et optimisation adéquate de la diffusion vidéo sur surfaces architecturales
+* Emploi de protocoles pour transporter la vidéo en temps réel
+
 
 ### Activités
 
-Composition sonore multicanale 
+* Branchement d’une installation de projection architecturale
+* Intégration de médias pour la projection vidéo architecturale
+
 
 ## 14 - 12/02
 
 ### Préparation
 
+* Optimisation des médias pour la projection vidéo architecturale
+
 ### Contenus
 
-Formatif : Maquette EF3 : Installation multimédia audiovisuelle 
+* Contrôle de la qualité du produit multimédia
 
 ### Activités
 
+* Évaluation formative : [EF-3 Projections architecturales](/evaluations/?id=ef-3-projections-architecturales)
 
 ## 15 - 12/09
 
 ### Préparation
 
+* Optimiser l'intégration de médias pour la projection vidéo architecturale.
+
 ### Contenus
 
-Sommatif présentation TP3: Installation multimédia audiovisuelle 
+* Contrôle de la qualité du produit multimédia
+* Archivage du produit multimédia
 
 ### Activités
 
+* Évaluation sommative : [ES-3 Projections architecturales](/evaluations/?id=es-3-projections-architecturales)
 
-### Calendriers officiel 
 
-[Calendrier](https://www.cmontmorency.qc.ca/wp-content/uploads/images/college/administration/CALENDRIER-SCOLAIRE_2024-2025.pdf)
 
-[Répartition](https://www.cmontmorency.qc.ca/wp-content/uploads/images/college/administration/CALENDRIER-REPARTITION_2024-2025.pdf)
+## Calendriers officiel (Collège)
+
+* [Calendrier](https://www.cmontmorency.qc.ca/wp-content/uploads/images/college/administration/CALENDRIER-SCOLAIRE_2024-2025.pdf)
+
+* [Répartition](https://www.cmontmorency.qc.ca/wp-content/uploads/images/college/administration/CALENDRIER-REPARTITION_2024-2025.pdf)
