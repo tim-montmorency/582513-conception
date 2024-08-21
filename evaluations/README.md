@@ -5,7 +5,7 @@
 Les évaluations **formatives** jouent un rôle crucial dans le processus d'apprentissage en offrant à l'étudiant une occasion continue de perfectionner ses connaissances, de comprendre ses points forts et ses domaines à améliorer. Ces évaluations visent à soutenir activement le développement des compétences en offrant des conseils personnalisés pour renforcer la compréhension des concepts enseignés et améliorer la capacité de les appliquer de manière pratique.
 
 ### EF-1 Maquette Lumières scénique
-#### Date : 09/16
+#### Date : 09/18
 #### Séance : 4
 
 #### Description
@@ -38,7 +38,7 @@ Une maquette fonctionnelle qui servira de base pour l'évaluation sommative, ave
 
 
 ### EF-2 Maquette Sons et Lumières
-#### Date : 10/28
+#### Date : 10/23
 #### Séance : 9
 
 #### Description
@@ -73,7 +73,7 @@ Les étudiants réaliseront une maquette fonctionnelle de leur installation de s
 Une maquette fonctionnelle qui servira de base pour l'évaluation sommative, avec une attention particulière à l'intégration harmonieuse du son et de la lumière, à la qualité du produit final, et à la documentation complète du processus.
 
 ### EF-3 Maquette Projections architecturale
-#### Date : 12/02
+#### Date : 12/04
 #### Séance : 14
 
 #### Description
@@ -112,7 +112,7 @@ Une maquette fonctionnelle qui servira de base pour l'évaluation sommative, ave
 Les évaluations **sommatives** sont utilisées pour évaluer les acquis et les connaissances de l'étudiant à un moment donné. Elles servent à mesurer la réussite et la maîtrise des objectifs d'apprentissage à la fin d'une période déterminée. Les résultats des évaluations sommatives fournissent une évaluation globale du niveau de compétence atteint par l'étudiant.
 
 ### ES-1 : Lumières scéniques
-#### Date : 09/23
+#### Date : 09/25
 #### Séance : 5
 #### Pondération : 30%  
 
@@ -149,11 +149,8 @@ Les étudiants branchent une installation de lumières scéniques, utilisent des
 
 * Optimiser l'intégration de médias pour la conception de lumière scénique.
 
-
-
-
 ### ES-2 Sons et lumières
-#### Date : 11/13
+#### Date : 11/06
 #### Séance : 11
 #### Pondération : 30%
 
@@ -189,7 +186,7 @@ Les étudiants branchent une installation de spatialisation sonore, positionnent
 * Optimiser l'intégration de médias pour la spatialisation sonore
 
 ### ES-3 Projections architecturales
-#### Date : 12/09
+#### Date : 12/11
 #### Séance : 15
 #### Pondération : 40%
 
@@ -223,12 +220,3 @@ Les étudiants branchent une installation de projection architecturale, configur
 #### Intégration des apprentissages
 
 * Optimiser l'intégration de médias pour la projection vidéo architecturale.
-
-
-
-<!-- 
-## Besoins spécifiques
-
-Dans le cas où des étudiants auraient formulé une demande en raison de besoins spécifiques pour bénéficier de temps supplémentaire lors des évaluations, l'enseignant essayera de respecter les recommandations émises pour favoriser le succès de l'étudiant. Cette mesure vise à garantir l'équité et l'accessibilité, permettant à tous les apprenants de démontrer leur compréhension de manière juste et équitable. Cependant c’est la responsabilité de l’étudiant de faire une demande au SAA (Service d’aide à l’apprentissage) au moins 7 jours avant l’évaluation sommative afin de disposer de leur temps supplémentaire accordé dans leurs locaux. 
-
--->
