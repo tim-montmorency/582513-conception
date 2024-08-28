@@ -1,6 +1,12 @@
 
 ## QLC midi mapping
 
+#### Windows 
+
+##### Drivers Midi Virtuel
+utiliser [loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html)
+
+
 ### Plugdata 
 
 [Plugdata](/contenus/multimedia/plugdata/)
@@ -17,4 +23,9 @@
 
 ![alt text](image-1.png)
 
-[Patch Plugdata](/activites/lx_midi_map/plugdata-lfo-ctl/plugdata-lfo-ctl.pd ':ignore') 
+[Patch Plugdata LFO](/activites/lx_midi_map/plugdata-lfo-ctl/plugdata-lfo-ctl.pd ':ignore') 
+
+[Patch Plugdata Analyse](/activites/lx_midi_map/plugdata-lfo-ctl/analyse_audio.pd ':ignore') 
+
+### Reaper
+
