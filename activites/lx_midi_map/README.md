@@ -23,9 +23,9 @@ utiliser [loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html)
 
 ![alt text](image-1.png)
 
-[Patch Plugdata LFO](plugdata-lfo-ctl/plugdata-lfo-ctl.pd ':ignore') 
+[Patch Plugdata LFO](plugdata-lfo-ctl.pd ) 
 
-[Patch Plugdata Analyse](plugdata-lfo-ctl/analyse_audio.pd ':ignore') 
+[Patch Plugdata Analyse](analyse_audio.pd ) 
 
 ### Reaper
 
