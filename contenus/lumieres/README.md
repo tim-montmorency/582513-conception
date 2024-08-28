@@ -1,36 +1,21 @@
 ## Branchement d’une installation de lumières scéniques
 
-
-### Simple
-
-```mermaid
-graph TD
-Électricité --> Lumière
-Ordinateur --> USB-DMX[Interface USB-DMX ] --DMX via XLR--> Lumière
-
-```
-### Plusieurs
-
-```mermaid
-graph TD
-Électricité --> Lumière_1
-Électricité --> Lumière_2
-Lumière_1 --DMX via XLR--> Lumière_2
-Ordinateur --> USB-DMX[Interface USB-DMX ] --DMX via XLR--> Lumière_1
-
-```
+* [Branchements de lampes ](/activite/lx_3_lampes/)
 
 ## Emploi des protocoles de communication pour lumières scéniques
 
-
+* [DMX ](/contenus/lumieres/DMX/)
 
 
 
 ## Manipulation des intensités lumineuses grâce à un logiciel d'intégration multimédia
 
+* [QLC+](/contenus/lumieres/QLC/)
+
 
 
 ## Réalisation d’une composition de lumières scéniques
+
 
 
 

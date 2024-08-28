@@ -24,10 +24,14 @@
 
 * Opération sécuritaire, composition pertinente et intégration judicieuse de lumières scénique sur support
 * Intégration des médias pour une composition de lumières scéniques
+* [Emploi des protocoles de communication pour lumières scéniques](/contenus/lumieres/DMX/)
+
 
 ### Activités
 
-* Branchement d’une installation de lumières scéniques
+* [Branchement d’une installation de lumières scéniques](/activites/lx_3_lampes/)
+* [Bonus : midi mapping controlleur -> QLC](/activites/lx_midi_map/)
+
 
 ## 3 - 09/11
 
