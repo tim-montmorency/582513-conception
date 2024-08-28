@@ -43,7 +43,6 @@
         window.$docsify = {
             name: '582513-Conception',
             repo: 'https://github.com/tim-montmorency/582513-conception',
-            unhashtagLinkExtensions: ['.pdf', '.html', '.docx', '.pd' ], // Override file types here
             auto2top: true,
             loadSidebar: true,    // Enable sidebar loading
             subMaxLevel: 4,       // Adjust the level to include in TOC
@@ -52,6 +51,7 @@
                 errorText: '⚠️',
                 successText: '✅ ',
             },
+            unhashtagLinkExtensions: ['.pdf', '.html', '.docx' ],
             plugins: [
                 // Lightbox plugin
                 function (hook, vm) {
@@ -89,8 +89,8 @@
     <script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-    <script src="https://gllmar.github.io/docsify-unhashtaglink/docsify-unhashtaglink.js"></script>
     <script src="https://gllmar.github.io/docsify-alert/docsify-alerts.js"></script>
+    <script src="https://gllmar.github.io/docsify-unhashtaglink/docsify-unhashtaglink.js"></script>
 </body>
 
 </html>
