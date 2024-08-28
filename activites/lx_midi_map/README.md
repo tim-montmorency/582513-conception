@@ -17,4 +17,4 @@
 
 ![alt text](image-1.png)
 
-[Patch Plugdata](/activites/lx_midi_map/plugdata-lfo-ctl/plugdata-lfo-ctl.pd)
+[Patch Plugdata](/activites/lx_midi_map/plugdata-lfo-ctl/plugdata-lfo-ctl.pd ':ignore') 
