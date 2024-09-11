@@ -37,7 +37,7 @@
 
 ### Préparation
 
-* Intégration des médias pour une composition de lumières scéniques
+* Intégration des médias pour une composition de lumières scéniques 
 
 ### Contenus
 
@@ -46,8 +46,12 @@
 
 ### Activités
 
+* [*Speedrun* 3 lumières](/activites/lx_3_lampes/) 
 * Branchement d’une installation de lumières scéniques
 * Réalisation d’une composition de lumières scéniques
+* Pause Diner à 13h30, retour à 14h15
+* Conférence Sid Lee 
+
 
 ## 4 - 09/18
 
