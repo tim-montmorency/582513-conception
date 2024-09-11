@@ -1,9 +1,6 @@
-# Lampe Disponible
+# Lampes disponibles
 
 ## Lampes Couleurs
-
-### 5p
-
 
 ### Eyourlife
 
@@ -11,4 +8,21 @@
 
 #### Définition dans QLC
 
-![Eyourlife QLC ](./Eyourlife_fixture_QLC.png))
+* Generic Dimmer RGBW
+* 3 adresses d'espacement
+![Eyourlife_fixture_QLC](Eyourlife_fixture_QLC.png)
+
+
+
+## Lampes monochromes
+
+### Elypsoidale eve-e-100z
+
+![eve-e-100z](eve-e-100z.jpg)
+
+#### Définition dans QLC+
+
+* Generic Dimmer 1 ch
+* 2 adresses d'espacement
+
+![Définition de la lampe ellipsoïdale dans QLC](elypsoidale_QLC.png)
