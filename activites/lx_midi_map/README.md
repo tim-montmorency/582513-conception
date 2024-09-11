@@ -35,7 +35,8 @@
 
 ### Reaper
 
-#### Télécharger
 
-* [link absolue avec ignore](/582513-conception/main/activites/lx_midi_map/analyse_audio.pd.zip ':ignore')
+Via midi (CC)
+
+
 
