@@ -1,27 +1,28 @@
+# Midi Map
 
 ## QLC midi mapping
 
-#### Spécifique à Windows 
+### Spécifique à Windows 
 
-##### Drivers Midi Virtuel
-utiliser [loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html)
+#### Drivers Midi Virtuel
 
-démarrer loop midi 
+* Utiliser [loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html)
+
+* Démarrer loop midi 
 
 
 ### Plugdata 
 
-[Plugdata](https://plugdata.org/)
-
+* [Plugdata](https://plugdata.org/)
 
 
 ### Config 
 
-### Entrée midi
+#### Entrée midi
 
 ![alt text](image-2.png)
 
-### midi mapping 
+#### midi mapping 
 
 ![alt text](image-1.png)
 
@@ -33,4 +34,8 @@ démarrer loop midi
 
 
 ### Reaper
+
+#### Télécharger
+
+* [link absolue avec ignore](/activites/lx_midi_map/analyse_audio.pd ':ignore')
 

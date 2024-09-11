@@ -1,4 +1,4 @@
-# Déroulement du cours  
+# Cours
 
 ## 1 - 08/21
 
