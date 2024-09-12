@@ -2,23 +2,25 @@
 
 ## Branchement d’une installation de lumières scéniques
 
-* [Branchements de lampes ](/activite/lx_3_lampes/)
+* [Branchements de lampes](/activites/lx_3_lampes/)
 
 ## Emploi des protocoles de communication pour lumières scéniques
 
-* [DMX ](/contenus/lumieres/DMX/)
+* [DMX](../protocoles/DMX/)
+* [Artnet](../protocoles/artnet/)
+* [sACN](../protocoles/sacn/)
 
 
 
 ## Manipulation des intensités lumineuses grâce à un logiciel d'intégration multimédia
 
-* [QLC+](/contenus/lumieres/QLC/)
+* [QLC+](../../logiciels/QLCplus/)
 
 
 
 ## Réalisation d’une composition de lumières scéniques
 
-
+* [Branchements de lampes](/activites/lx_midi_map/)
 
 
 ## Intégration des médias pour une composition de lumières scéniques

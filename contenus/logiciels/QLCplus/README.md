@@ -36,3 +36,24 @@ Grâce à son accessibilité et à sa gratuité, QLC+ est souvent utilisé dans 
 ## Conclusion :
 
 QLC+ est un outil essentiel pour toute personne cherchant à contrôler des systèmes d'éclairage complexes, que ce soit pour des concerts, des spectacles, des installations interactives, ou des événements. Sa flexibilité, son support pour de nombreux protocoles, et son interface conviviale en font un choix privilégié pour les concepteurs lumière, les artistes, et les techniciens de spectacle. En plus d'être une solution accessible et open-source, QLC+ permet de créer des effets lumineux impressionnants.
+
+
+## Site
+
+https://qlcplus.org/
+
+## Code
+
+https://github.com/mcallegari/qlcplus
+
+## Tutoriels
+
+### Officiels
+
+https://qlcplus.org/discover/tutorials
+
+
+### Plus avancé
+
+https://www.youtube.com/watch?v=aXvJ-s5gAqw&list=PL_kjo8_ebNREy9grE9i4DNeAepMg8FrCq
+
