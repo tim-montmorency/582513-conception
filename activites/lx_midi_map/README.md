@@ -32,7 +32,11 @@
 
 [Patch Plugdata Analyse](https://raw.githubusercontent.com/tim-montmorency/582513-conception/main/activites/lx_midi_map/analyse_audio.pd.zip) 
 
+#### Lien relatifs
 
+[Patch Plugdata lfo](plugdata-lfo-ctl.pd)
+
+[Patch Plugdata Analyse](analyse_audio.pd)
 
 
 ### Configuration QLC 
