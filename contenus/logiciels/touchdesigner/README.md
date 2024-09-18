@@ -1,5 +1,8 @@
 # TouchDesigner
 
+<!-- generateSubNav -->
+* [Source vers DMX ](/contenus/logiciels/touchdesigner/ex_source_to_dmx/)
+<!-- generateSubNavEnd -->
 Un environnement de création visuelle et interactive en temps réel
 
 **TouchDesigner** est une plateforme de développement visuelle conçue pour créer des projets multimédia interactifs et en temps réel. Il est principalement utilisé pour les installations artistiques, la visualisation en direct, le mapping vidéo, les performances interactives, ainsi que pour le prototypage rapide de contenus numériques. Développé par **Derivative**, TouchDesigner combine un environnement de programmation visuel avec une architecture en blocs pour permettre la manipulation de vidéos, d'images, de données, et de sons en temps réel, tout en exploitant la puissance des cartes graphiques modernes (GPU).

@@ -1,14 +1,14 @@
 # Logiciels Multimédia
 
 <!-- generateSubNav -->
-
-* [QLC+](/contenus/logiciels/QLCplus/README.md)
-* [HyperHDR](/contenus/logiciels/hyperhdr/README.md)
-* [MadMapper](/contenus/logiciels/madmapper/README.md)
-* [MAX](/contenus/logiciels/max/README.md)
-* [PlugData](/contenus/logiciels/plugdata/README.md)
-* [PureData](/contenus/logiciels/puredata/README.md)
-* [REAPER ](/contenus/logiciels/reaper/README.md)
-* [TouchDesigner](/contenus/logiciels/touchdesigner/README.md)
-* [Unity](/contenus/logiciels/unity/README.md)
-
+* [QLC+](/contenus/logiciels/QLCplus/)
+* [HyperHDR](/contenus/logiciels/hyperhdr/)
+* [MadMapper](/contenus/logiciels/madmapper/)
+* [MAX](/contenus/logiciels/max/)
+* [PlugData](/contenus/logiciels/plugdata/)
+* [PureData](/contenus/logiciels/puredata/)
+* [REAPER ](/contenus/logiciels/reaper/)
+* [TouchDesigner](/contenus/logiciels/touchdesigner/)
+    * [Source vers DMX ](/contenus/logiciels/touchdesigner/ex_source_to_dmx/)
+* [Unity](/contenus/logiciels/unity/)
+<!-- generateSubNavEnd -->

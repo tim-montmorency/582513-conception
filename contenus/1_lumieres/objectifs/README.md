@@ -25,14 +25,20 @@
 
 ## Intégration des médias pour une composition de lumières scéniques
 
+* Préparer l'installation 
+* Préparer une composition
 
 
 ## Optimisation des médias pour une composition de lumières scéniques
-
-
+ 
+* Adresses 
+* Mapping
+* Résolution
+* Protocoles
 
 ## Contrôle de la qualité du produit multimédia
 
 
-
 ## Documentation du produit multimédia
+
+captationn vidéo?
