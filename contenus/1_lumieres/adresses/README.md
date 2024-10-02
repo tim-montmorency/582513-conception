@@ -1,4 +1,4 @@
-# Addresses
+# Adresses
 
 Voici des méthode pour représenter visuellement les addresses des lampes 
 
@@ -12,7 +12,6 @@ packet-beta
 1-6: "Lampe ADJ 5p HEX (RGBWAU)"
 7-9: "Elypso"
 10-16: "Lampe ADJ 5p HEX (RGBWAU)"
-
 ```
 
 ## Via mermaid gantt

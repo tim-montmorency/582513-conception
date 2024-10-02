@@ -2,10 +2,12 @@
 
 <!-- generateSubNav -->
 * [Lumière](/contenus/1_lumieres/)
-    * [Addresses](/contenus/1_lumieres/addresse/)
+    * [Adresses](/contenus/1_lumieres/adresses/)
     * [Lampes disponibles](/contenus/1_lumieres/lampes/)
     * [Lumière ](/contenus/1_lumieres/objectifs/)
+    * [Vidéo extention et captation](/contenus/1_lumieres/video-extention-captation/)
 * [Audio](/contenus/2_audio/)
+    * [Branchements](/contenus/2_audio/branchements/)
 * [Video](/contenus/3_video/)
 * [Logiciels Multimédia](/contenus/logiciels/)
     * [QLC+](/contenus/logiciels/QLCplus/)
