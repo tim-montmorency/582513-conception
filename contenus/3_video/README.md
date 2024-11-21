@@ -1,9 +1,9 @@
-# Video
+# Vidéo
 
-* Branchement d’une installation de projection architecturale
-* Emploi de protocoles pour transporter la vidéo en temps réel
-* Logiciels d'intégration multimédia spécialisés en projection architecturale
-* Intégration de médias pour la projection vidéo architecturale
-* Optimisation des médias pour la projection vidéo architecturale
-* Contrôle de la qualité du produit multimédia
-* Archivage du produit multimédia
+<!-- generateSubNav -->
+* [Video](/contenus/3_video/10_manuel/)
+* [Matériel](/contenus/3_video/20_materiel/)
+    * [Projecteurs Vidéos ](/contenus/3_video/20_materiel/10_projecteurs_video/)
+        * [Epson PowerLite 535W](/contenus/3_video/20_materiel/10_projecteurs_video/EPSON_PowerLite_535W/)
+        * [Epson PowerLite 990U](/contenus/3_video/20_materiel/10_projecteurs_video/EPSON_PowerLite_990U/)
+<!-- generateSubNavEnd -->
